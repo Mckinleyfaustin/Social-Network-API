@@ -11,11 +11,7 @@ an API for a social network web application where users can share their thoughts
 - Technologies Used
 
 ## 🚀 Demo
-Try it here,
-
-https://limitless-dusk-20283.herokuapp.com/
-
-![2022-10-09.mov](https://user-images.githubusercontent.com/101281767/184547961-9ecf5a83-c467-4fe2-b80c-ed6231be3ef4.png)
+![2022-10-09.mov](2022-10-09.mov)
 
 ## The Requirements
 GIVEN a social network API
