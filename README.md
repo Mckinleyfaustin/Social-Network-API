@@ -11,7 +11,7 @@ an API for a social network web application where users can share their thoughts
 - Technologies Used
 
 ## 🚀 Demo
-![2022-10-09.mov](2022-10-09.mov)
+![Screenshot](2022-10-09.mov)
 
 ## The Requirements
 GIVEN a social network API
